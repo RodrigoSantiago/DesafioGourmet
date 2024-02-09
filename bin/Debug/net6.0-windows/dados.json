@@ -1,0 +1,86 @@
+{
+  "comidas": [
+    {
+      "Nome": "bolo",
+      "Caracteristicas": [
+        {
+          "Nome": "massa"
+        },
+        {
+          "Nome": "doce"
+        }
+      ]
+    },
+    {
+      "Nome": "macarrão",
+      "Caracteristicas": []
+    },
+    {
+      "Nome": "suco",
+      "Caracteristicas": [
+        {
+          "Nome": "bebida"
+        }
+      ]
+    },
+    {
+      "Nome": "Alcool",
+      "Caracteristicas": [
+        {
+          "Nome": "bebida"
+        },
+        {
+          "Nome": "Alcoolica"
+        }
+      ]
+    },
+    {
+      "Nome": "Pastel",
+      "Caracteristicas": [
+        {
+          "Nome": "doce"
+        },
+        {
+          "Nome": "Salgado"
+        }
+      ]
+    },
+    {
+      "Nome": "Pastel",
+      "Caracteristicas": [
+        {
+          "Nome": "massa"
+        },
+        {
+          "Nome": "bebida"
+        },
+        {
+          "Nome": "Salgado"
+        },
+        {
+          "Nome": "Salgado"
+        }
+      ]
+    }
+  ],
+  "caracteristicas": [
+    {
+      "Nome": "massa"
+    },
+    {
+      "Nome": "doce"
+    },
+    {
+      "Nome": "bebida"
+    },
+    {
+      "Nome": "Alcoolica"
+    },
+    {
+      "Nome": "Salgado"
+    },
+    {
+      "Nome": "Salgado"
+    }
+  ]
+}
